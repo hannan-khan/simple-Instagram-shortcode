@@ -1,0 +1,23 @@
+Plugin Name: Simple Instagram Shortcode
+Plugin URI: 
+Description: Thanks for installing  Simple Instagram Shortcode
+Version: 1.0
+Author: Hannan
+Author URI: 
+
+
+================ DESCRIPTION ====================
+after installtion this plugin go to page or post where you want to display instagram feed
+then use this shortcode [simple_instagram]
+
+you must need to instagram user id and acess token for display instagram feed
+
+Simple Instagram Shortcode Available options are
+
+image width
+image height
+image show limit
+image gap
+
+[simple_instagram user_id="4055751633" token="4055751633.d021d7d.eb0621312b5343feb9dad4627a4f9e77" width="150" height="150" limit="10" gap="no"]
+
